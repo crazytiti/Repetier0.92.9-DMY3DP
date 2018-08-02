@@ -1,7 +1,7 @@
 # Repetier0.92.9-DMY3DP
 Repetier 0.92.9 for DMY3DP-001 (anet a8 clone)
 
-https://raw.githubusercontent.com/crazytiti/Repetier0.92.9-DMY3DP/master/SJCM0003.jpg
+![](https://raw.githubusercontent.com/crazytiti/Repetier0.92.9-DMY3DP/master/SJCM0003.jpg)
 
 This is preconfigurated repetier firmware 0.92.9 with auto level for DMY3DP-001 3d printer (anet a8 clone with modified melzi electronics)
 It use the bed sensor to auto level and correct distortion.
