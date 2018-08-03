@@ -22,5 +22,4 @@ See full explanation on  https://github.com/Lauszus/Sanguino
 
 To upload it you may need and ISP to put the arduino bootloader on your board, then use classic arduino USB upload.
 
-Demo :
-![](https://youtu.be/xS7Vn1HkF7k)
+![Video Demo](https://youtu.be/xS7Vn1HkF7k)
